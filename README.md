@@ -1,5 +1,6 @@
 # Nix Configuration
 This repository is home to the nix code that builds my systems.
+Because my systems are unique, but this config should work on all of them
 
 ## Why Nix?
 Nix allows for easy to manage, collaborative, reproducible deployments. This means that once something is setup and configured once, it works forever. If someone else shares their configuration, anyone can make use of it.
